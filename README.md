@@ -8,6 +8,6 @@ This project is built with :
 - [Three.js](https://threejs.org/) 
 - [Blender](https://www.blender.org/)
 
-## Screenshot
-![alt tag](https://raw.githubusercontent.com/fiqgant/fiqart/main/screenshots/fa_1.png)
+## Here's a screenshot:
 
+![Screenshot](screenshots\screenshot.png)
