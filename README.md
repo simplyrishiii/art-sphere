@@ -8,6 +8,3 @@ This project is built with :
 - [Three.js](https://threejs.org/) 
 - [Blender](https://www.blender.org/)
 
-## Here's a screenshot:
-
-![Screenshot](screenshots\screenshot.png)
