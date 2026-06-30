@@ -1,8 +1,6 @@
 ## Artsphere
 
-Artsphere is a place where I show my art that I make in my spare time.
-
-Link: art-sphere-threejs.vercel.app
+Artsphere is a place where I show my art that I make in my spare tim
 
 
 ## About Project
